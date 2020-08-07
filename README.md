@@ -7,6 +7,8 @@
 
 ### Semana dedicada a desenvolvimento de um projeto entre 03/08/2020 - 07/08/2020
 
+### Projeto que cadastra professores. É permitido aos alunos encontrarem o professor pelo dia, matéria e horário disponíveis. O aluno pode contatar o professor diretamente pelo whtaszapp
+
 ## <h2>Instructions</h2>
 
 1. Download project
